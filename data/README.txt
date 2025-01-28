@@ -1,4 +1,4 @@
-The "./PARENT/data" folder contains input datasets and raw experimental or simulation data collected from Aspen simulations. 
+The "/data" folder contains input datasets and raw experimental or simulation data collected from Aspen simulations. 
 
 "raw/" will contain the unprocessed data.
 "cleaned/" will contain the cleaned up and structured data.
