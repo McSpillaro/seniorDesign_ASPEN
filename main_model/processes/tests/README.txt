@@ -1,4 +1,4 @@
-The "./PARENT/tests" folder is for generating tests for validating or benchmarking specific areas of the project (i.e. testing heat recovery for something or for a mass balance validation).
+The "/tests" folder is for generating tests for validating or benchmarking specific areas of the project (i.e. testing heat recovery for something or for a mass balance validation).
 
 General naming scheme could be as follows (subject to change):
 "<purpose>_<version#>_<team_member>"
