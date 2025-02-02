@@ -1,0 +1,10 @@
+INPUT: PFD-column-reboilers-condensers_v1_ernest-drake.inm
+MODNAME: apmain
+RUNID: PFD-column-reboilers-condensers_v1_ernest-drake
+NEW_RUNID: PFD-column-reboilers-condensers_v1_ernest-drake
+OLD_RUNID: PFD-column-reboilers-condensers_v1_ernest-drake
+PDF: PFD-column-reboilers-condensers_v1_ernest-drake.appdf
+USERNAME: ernes
+XMOD: C:\Program Files\AspenTech\Aspen Plus V14.0\Engine\xeq\apmain
+SPONLY:
+DBCONN: _2814aah.ads
